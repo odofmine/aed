@@ -5,7 +5,7 @@ const sleep = (ms) => new Promise(resove => setTimeout(resove, ms));
 async function main() {
   execSync('git add .')
   execSync('git commit -m"update"')
-  execSync('git push origin master')
+  execSync('git push origin main')
   sleep(300000)
 }
 
