@@ -11,7 +11,7 @@ try {
 } catch(e){
 console.error(e)
 }   
- await sleep(60000)
+ await sleep(20000)
   }
 }
   main()
