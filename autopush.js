@@ -9,6 +9,7 @@ try {
     execSync(`git commit -m'update ${new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '')}'`)
     execSync('git push origin main')
 } catch(e){
+execSync('rm -rf .git/index.lock')
 console.error(e)
 }   
  await sleep(20000)
