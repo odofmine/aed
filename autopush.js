@@ -10,7 +10,7 @@ try {
     execSync('git push origin main')
 } catch(e){
 execSync('rm -rf .git/index.lock')
-console.error(e)
+console.error( new Date(), e)
 }   
  await sleep(20000)
   }
