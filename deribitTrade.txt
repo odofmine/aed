@@ -3,3 +3,10 @@
  11-08 14:27:32 sell 1760
  11-08 14:27:42 sell 1760
  11-08 14:27:53 sell 1760
+ 11-08 14:28:04 sell 1760
+ 11-08 14:28:14 sell 1760
+ 11-08 14:28:19 sell 1760   real, -19830, should, -21589.847079889703  Sun Nov 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
+ 11-08 14:28:30 sell 1760   real, -19830, should, -21589.847079889703  Sun Nov 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
+ 11-08 14:28:40 sell 1760   real, -19830, should, -21589.847079889703  Sun Nov 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
+ 11-08 14:28:51 sell 1760   real, -19830, should, -21589.847079889703  Sun Nov 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
+ 11-08 14:29:02 sell 1760   real, -19830, should, -21589.847079889703  Sun Nov 08 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
