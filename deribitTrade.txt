@@ -11209,3 +11209,9 @@
  not create order  1604880000
  11-10 00:03:50 sell 20   real, -21610, should, -21629.277217399922  1604966400
  not create order  1604966400
+ not create order  1604966400
+ not create order  1604966400
+ not create order  1604966400
+ not create order  1604966400
+ not create order  1604966400
+ not create order  1604966400
