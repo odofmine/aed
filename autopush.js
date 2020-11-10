@@ -12,7 +12,7 @@ try {
 execSync('rm -rf .git/index.lock')
 console.error( new Date(), e)
 }   
- await sleep(60000)
+ await sleep(300000)
   }
 }
   main()
