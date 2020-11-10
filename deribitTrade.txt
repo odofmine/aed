@@ -11396,3 +11396,31 @@
  not create order  1604966400
  not create order  1604966400
  not create order  1604966400
+ 11-10 09:00:34 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:00:44 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:00:54 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:04 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:15 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:25 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:36 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:46 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:01:56 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:07 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:17 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:27 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:37 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:48 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:02:58 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:08 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:18 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:29 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:39 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:49 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:03:59 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:04:10 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:04:20 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:04:30 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:04:41 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:04:51 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:05:01 shouldPosition or realPosition is NaN 1604966400
+ 11-10 09:05:11 shouldPosition or realPosition is NaN 1604966400
