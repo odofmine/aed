@@ -11462,3 +11462,21 @@
  11-12 00:00:10 shouldPosition or realPosition is NaN 1605139200
  11-12 00:00:20 shouldPosition or realPosition is NaN 1605139200
  11-12 00:00:31 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:00:42 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:00:53 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:03 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:14 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:25 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:35 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:46 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:01:56 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:02:07 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:02:18 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:02:28 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:02:39 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:02:49 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:03:00 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:03:11 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:03:21 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:03:32 shouldPosition or realPosition is NaN 1605139200
+ 11-12 00:03:43 buy 18 real, -21640, should, -21621.03026905812 
