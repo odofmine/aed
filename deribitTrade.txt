@@ -11559,3 +11559,8 @@
  11-17 17:24:28 shouldPosition or realPosition is NaN 1605571200
  11-17 17:24:39 shouldPosition or realPosition is NaN 1605571200
  11-18 00:00:01 shouldPosition or realPosition is NaN 1605657600
+ 11-18 00:00:12 shouldPosition or realPosition is NaN 1605657600
+ 11-18 00:00:22 shouldPosition or realPosition is NaN 1605657600
+ 11-18 00:00:33 shouldPosition or realPosition is NaN 1605657600
+ 11-18 00:00:44 shouldPosition or realPosition is NaN 1605657600
+ 11-18 00:00:54 buy 101 real, -21550, should, -21448.53503803577 
